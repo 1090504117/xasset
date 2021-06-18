@@ -46,3 +46,7 @@ UnityPackageManager
 Logs
 Packages
 ProjectSettings
+Assets/StreamingAssets
+Assets/StreamingAssets.meta
+
+
