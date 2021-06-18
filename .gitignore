@@ -39,3 +39,10 @@ Library
 Temp
 DLC
 UnityPackageManager
+
+
+
+# Unity3D cache files
+Logs
+Packages
+ProjectSettings
